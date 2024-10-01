@@ -1,0 +1,13 @@
+== APLICAÇÃO DAS PILHAS ==
+
+. As pilhas encontram inúmeras aplicações em programação e desenvolvimento de algoritmos, como por exemplo: 
+
+. Avaliação de Expressões e Parsing Sintático: Quando a IDE te avisa quando há algum erro no teu código.
+ 
+. Algoritmo de Backtracking
+. Gerenciamento de Memória em Tempo de Compilação
+. Implementação de diversos algoritmos, como Grahan scan
+. Operações como desfazer e refazer em aplicações 
+. Controles de navegação de browsers
+. Endereçamento de instruções em microprocessadores
+. Analise de expressões aritméticas  

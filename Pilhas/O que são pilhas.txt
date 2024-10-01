@@ -1,0 +1,3 @@
+== PILHAS ==
+
+. Pilha é uma estrutura de dados que serve como uma coleção de elementos, e permite o acesso a somente um item de dados armazenado - o ultimo item que foi inserido na estrutura (item do topo). Esse item pode ser lido ou removido. Caso seja removido, teremos acesso ao item imediatamente anterior a ele que se torna automaticamente o ultimo item da pilha (topo), e assim sucessivamente, até que a estrutura esteja vazia.
