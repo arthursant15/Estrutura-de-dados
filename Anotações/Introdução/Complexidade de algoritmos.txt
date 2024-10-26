@@ -1,0 +1,8 @@
+Complexidade: É uma medida da quantidade de recursos que são demandadas por um algoritmos
+
+Complexidade de Tempo: Se da em uma formula matemática para saber quanto tempo se da ao executar o algoritmo.
+
+Complexidade de Espaço: Se da em uma formula matemática para saber o quanto que ira gastar no armazenamento. 
+
+
+OBS: Para calcular complexidade iremos fazer contas matemáticas que serão pouca detalhadas, porque o nosso interesse não é no numero exato, mas sim em entender como que a complexidade varia, com o tamanho da entrada do algoritmo

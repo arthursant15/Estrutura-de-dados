@@ -1,0 +1,3 @@
+== RECURSOS COMPUTACIONAIS ==
+
+Em um código se leva em consideração duas coisas para a sua execução são elas: o processamento (a capacidade de serem feitos cálculos no computador) e armazenamento (memoria do computador) que ao serem feitas de modo que otimizem o tempo de realização, serão melhores aproveitadas pela memoria e processamento do computador.
