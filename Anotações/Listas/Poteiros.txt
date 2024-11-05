@@ -1,0 +1,5 @@
+- Ponteiros
+
+Mai que desgraça são ponteiros em que o véio safado tanto fala?
+
+Ponteiro é um tipo de dado que servem para armazenar os endereços de memória de outros valores. ex: cada variável é alocada em algum espaço de memoria, em java quando a gente pede para escrever na tela uma variável de referencia ela mostra seu endereço na memória.
