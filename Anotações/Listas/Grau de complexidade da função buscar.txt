@@ -1,1 +1,5 @@
-O grau de complexidade de uma lista se da por O[N], pois o método buscar é um método em que possui um seguimento linear
+O grau de complexidade de uma lista se da por O[N], pois o método buscar é um método em que possui um seguimento linear.
+
+Esse método é eficaz? 
+
+Sim e não, isso se deve caso não sabermos nenhuma informação a respeito da lista, sim deveremos olhar sequencialmente essa lista, caso nos é dado uma informação a mais, se caso a lista for ordenada, então esse método não se mostrará tão eficiente assim podendo ser utilizada a busca binária.

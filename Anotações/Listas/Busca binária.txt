@@ -1,0 +1,9 @@
+-- Busca Binária --
+
+Esse método funciona da seguinte maneira: em uma lista ordenada se é apontado para o meio da lista caso o numero seja maior ou menor ira se remover o lado em que não seja exemplo: --Eu quero encontrar o número 53 na lista -- 
+
+lista [1,8,9,10,11,30,40,53,80]
+
+- eu pego o numero em que esta no meio que é o 11, depois eu faço uma comparação, se o numero em que eu desejo procurar no caso o 53 ele é maior que 11? Sim, então eu excluo os números menores que o mesmo e repetindo esse processo com os outros até finalmente achar o valor em questão.
+
+OBS: Seu grau de complexidade se da por O[log N], isso por que ela cresce com o logaritmo do tamanho da entrada, por o logaritmo crescer de uma maneira bem devagar.
