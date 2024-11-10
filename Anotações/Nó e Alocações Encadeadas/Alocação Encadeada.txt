@@ -1,0 +1,1 @@
+É permitir que os dados sejam armazenados em quaisquer espaços na memoria e esses espaços só seriam criados quando fosse realmente necessário ser criado, economizando assim mais espaço.

@@ -1,0 +1,7 @@
+Em python se necessita de um método construtor para se inicializar objetos em questão que se é escrito assim:
+
+def __init__(self, objeto):
+	self.objeto = algum valor
+pass
+
+então nesse exemplo podemos notar que __init__ é diferente de um método comum, isso se da por que ele é um método especial e não podemos fazer uma chamada dele no decorrer do seu código e a palavra SELF que esta no argumento do método tem função de fazer referencia a um espaço de memoria do computador.

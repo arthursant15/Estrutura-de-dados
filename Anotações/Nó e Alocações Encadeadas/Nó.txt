@@ -1,0 +1,3 @@
+É uma espécie de envelope em que é armazenado um dado e que é apontado para outro nó visando um tipo de ligação ou conexão. Pense como se fosse um trem que tem seus vagões interligado e você pode acessar os demais ate o seu final.
+
+OBS: No exemplo do trem você poderia voltar os vagões, porem no nó não se pode fazer o mesmo.
