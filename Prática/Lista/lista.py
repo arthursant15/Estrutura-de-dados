@@ -10,7 +10,7 @@ def busca (lista,elem):
 
         # ultilizamos o if para verificarmos se é o elemento em questão, caso ele for irá retornar i que seria o indice da lista.
         if lista[i] == elem:
-            return i
+            return i    
         # None é uma propriedade em python que quer dizer nada ou nenhum.
     return None
     
