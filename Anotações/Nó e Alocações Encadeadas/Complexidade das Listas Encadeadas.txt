@@ -1,0 +1,1 @@
+O(n), pois é nessesario em alguns métodos percorrer ao longo dos elemento, dependendo assim de "n" fatores, visando o melhor caso(mais fácil e rapido) ate o pior caso (mais difícil e lento)

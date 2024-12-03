@@ -1,0 +1,1 @@
+Basicamente a ideia de fila se dá como na vida real, ou seja o primeiro a entrar é o primeiro a sair e o ultimo a entrar é o ultimo a sair. 

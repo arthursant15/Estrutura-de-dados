@@ -1,0 +1,1 @@
+O(1), pois visa de maneira constante adicionar, remover e visualizar valores de maneira rápida e eficaz.
