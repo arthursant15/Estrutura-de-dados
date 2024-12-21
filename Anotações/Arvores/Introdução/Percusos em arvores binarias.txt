@@ -1,0 +1,3 @@
+-- Percurso em arvore binária
+
+Para percorrer uma arvore basta ir para a folha mais profunda começando pela esquerda e colocando entre parênteses a expressão do nó.

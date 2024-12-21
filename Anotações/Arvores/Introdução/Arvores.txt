@@ -1,0 +1,10 @@
+== O que são arvores?
+
+Arvores são uma estrutura de dados em que como o seu nome se refere a uma arvore ele faz jus a esse nome, pois ela tem a presença de raiz e folhas formando assim, uma estrutura que se assemelha com uma árvore 
+
+-- Hierarquia das árvores:
+
+Elas possuem hierarquia, pois temos uma relação de parentesco sendo eles pais/filhos e descendentes/ancestrais.
+
+
+ 

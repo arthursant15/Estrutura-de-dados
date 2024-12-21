@@ -1,0 +1,3 @@
+-- Árvores Binárias
+
+São casos de arvores em que é obrigado a terem exclusivamente dois filhos ex: o nó A só tem os filhos B e C.	
