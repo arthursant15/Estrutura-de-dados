@@ -1,0 +1,3 @@
+	            -- Pós Ordem --
+
+O que quer dizer EDR, E = Esquerda, D = Direita e R = Raiz.

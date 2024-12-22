@@ -1,0 +1,1 @@
+Essa notação é vista em uso quando temos uma matriz em que se tem L=linhas e C=colunas, em que possuem dois for's(estrutura de rep) uma dentro da outra uma representando a linha e a outra a coluna.

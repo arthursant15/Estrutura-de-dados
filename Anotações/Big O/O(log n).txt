@@ -1,0 +1,1 @@
+um exemplo de como usamos essa notação se da em uma busca de uma arvore binaria em que temos pais e seus respectivos filhos, na pratica ela é usada em um crescimento logariticamente fazendo com que seja a metade da metade e assim sucessivamente ate encontrar o elemento. 

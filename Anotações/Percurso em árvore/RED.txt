@@ -1,0 +1,3 @@
+	            -- Pré Ordem -- 
+
+A sigla RED quer dizer R = Raiz, E = Esquerda e D = Direita. 

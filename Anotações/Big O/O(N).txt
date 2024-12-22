@@ -1,0 +1,3 @@
+Quando o algoritmo é O(N) ele tem como característica em que o seu tempo de execução varia em relação ao numero de entrada, sendo ele linear
+
+ex: se eu tiver um for(estrutura de rep) e quiser imprimir os elementos da lista, então o tempo de execução vai variar em relação ao tamanho da lista.

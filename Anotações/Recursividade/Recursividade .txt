@@ -1,0 +1,11 @@
+A diferença de uma função Recursiva e Iterativa:
+
+A principal diferença da interativa e da recursiva é que a recursiva chama ela mesma para resolver o problema como se fosse uma aquelas bonecas da Rússia em que dentro da maior tem a mesma boneca, e a interativa é a função comum em que é usada para usar de uma maneira.
+
+Caso Base:
+
+O caso base se dá para que uma função recursiva tenha uma parada, ou seja para que não fique em loop infinito, em casos assim nós colocamos uma condição que assim que atendida a função é interrompida imediatamente.
+
+Como que eu uso uma função recursiva: 
+
+O exemplo em questão vai ser um algoritmo de Fibonacci em que eu crio duas bases sendo a primeira que retornará 0 e a segunda que retornará 1 para quando chegar na ultima será retornado 0 e encerrado a função, para implementa-la basta chamar ela menos 1 e chama-la de novo só que menos 2 fazendo ela retroceder e retornando os valores e somando ate chegar na primeira posição da expressão, ao final do percurso retornando o valor final

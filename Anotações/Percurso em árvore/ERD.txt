@@ -1,0 +1,3 @@
+	            -- Em Ordem --
+
+O que significa a sigla ERD E = Esquerda R = Raiz e D = Direita.

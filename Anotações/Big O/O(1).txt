@@ -1,0 +1,3 @@
+É somente o(1) quando o algoritmo é constante ou seja independente do valor da entrada o tempo de execução será constante. 
+
+ex: eu tenho uma lista com vários elementos, porem eu apenas executo um (como estava no exemplo do video).
